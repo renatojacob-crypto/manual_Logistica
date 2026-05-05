@@ -1,4 +1,4 @@
-const CACHE_NAME = 'robotica_logisticaV2';
+const CACHE_NAME = 'robotica_logisticaV3';
 const ASSETS = [
     './',
     './index.html',
