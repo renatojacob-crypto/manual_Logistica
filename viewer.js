@@ -8,56 +8,56 @@ const manuals = [
 	{
 		id: 1, 
 		pdfs: [
-			{ path: "assets/pdfs/01_trem.pdf", title: "Manual de Montagem do Trem de Carga" },
-			{ path: "assets/pdfs/01_aspersor.pdf", title: "Manual de Montagem do Aspersor de Polímeros" }
+			{ path: "assets/pdfs/09-01-carregamentoporsilo.pdf", title: "Manual de Montagem do Carregamento por Silo" }
 		]
 	},
 	{
 		id: 2,
 		pdfs: [
-			{ path: "assets/pdfs/02_virador.pdf", title: "Manual de Montagem do Virador de Vagões"  }
+			{ path: "assets/pdfs/09-02-01-tremdecarga.pdf", title: "Manual de Montagem do Trem de Carga"  },
+            { path: "assets/pdfs/09-02-02-aspersordepolimero.pdf", title: "Manual de Montagem do Aspersor de Polímeros" }
 		]
 	},
 	{
 		id: 3,
 		pdfs: [
-			{ path: "assets/pdfs/03_moinho.pdf", title: "Manual de Montagem do Moinho de Bolas" }
+			{ path: "assets/pdfs/09-03-paleteiras.pdf", title: "Manual de Montagem da Paleteira Elétrica" }
 		]
 	},
 	{
 		id: 4,
 		pdfs: [
-			{ path: "assets/pdfs/04_tanque.pdf", title: "Manual de Montagem do Tanque de Homogeinização" }
+			{ path: "assets/pdfs/09-04-ponterolante.pdf", title: "Manual de Montagem da Ponte Rolante de Carga Geral" }
 		]
 	},
 	{
 		id: 5,
 		pdfs: [
-			{ path: "assets/pdfs/05_prensa.pdf", title: "Manual de Montagem da Prensa de Rolos" }
+			{ path: "assets/pdfs/09-05-solda.pdf", title: "Manual de Montagem da Máquina de Solda" }
 		]
 	},
 	{
 		id: 6,
 		pdfs: [
-			{ path: "assets/pdfs/06_aglomerantes.pdf", title: "Manual de Montagem da Adição de Aglomerantes" }
+			{ path: "assets/pdfs/09-06-niveladora.pdf", title: "Manual de Montagem da Máquina Niveladora/Socadora de Linha" }
 		]
 	},
 	{
 		id: 7,
 		pdfs: [
-			{ path: "assets/pdfs/07_pelotamento.pdf", title: "Manual de Montagem do Disco de Pelotamento" }
+			{ path: "assets/pdfs/09-07-viradordevagoes.pdf", title: "Manual de Montagem do Virador de Vagões" }
 		]
 	},
 	{
 		id: 8,
 		pdfs: [
-			{ path: "assets/pdfs/08_peneiramento.pdf", title: "Manual de Montagem do Peneiramento" }
+			{ path: "assets/pdfs/09-08-tremdepassageiros.pdf", title: "Manual de Montagem do Trem de Passageiros" }
 		]
 	},
     {
 		id: 9,
 		pdfs: [
-			{ path: "assets/pdfs/09_carregador.pdf", title: "Manual de Montagem do Carregador de Navios" }
+			{ path: "assets/pdfs/09-09-estacaodetratamento.pdf", title: "Manual de Montagem do Sistema de Tratamento Água/Óleo" }
         ]
     }   
     // 👉 Adicione aqui todos os outros IDs,

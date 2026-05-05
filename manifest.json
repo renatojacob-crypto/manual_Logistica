@@ -1,7 +1,7 @@
 {
-  "name": "Oficina Robótica Pelotização",
-  "short_name": "Robótica Pelotização",
-  "description": "Manual de Montagens da Oficina de Robótica de Pelotização",
+  "name": "Oficina Robótica Logística",
+  "short_name": "Robótica Logística",
+  "description": "Manual de Montagens da Oficina de Robótica de Logística",
   "start_url": "index.html",
   "display": "fullscreen",
   "background_color": "#0f172a",
